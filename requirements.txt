@@ -2,3 +2,4 @@ streamlit
 svgpathtools
 matplotlib
 python-dotenv
+openai
